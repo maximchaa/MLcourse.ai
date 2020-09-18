@@ -1,1 +1,1 @@
-**Theme 9** (there's no classwork): principal component analysis, clustering methods comparison
+**Theme 9**: principal component analysis, clustering methods comparison
