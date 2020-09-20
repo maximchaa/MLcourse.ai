@@ -11,3 +11,4 @@
 <br>**Theme 7**: ensembles (random forest, bagging), feature importance assessment
 <br>**Theme 8**: gradient boosting (XGBoost, CatBoost)
 <br>**Theme 9**: principal component analysis, clustering methods comparison
+**Theme 10**: time series analysis; exponential smoothing, Dickey-Fuller test, SARIMA model, linear regression and XGBoost
